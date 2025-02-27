@@ -61,4 +61,4 @@ print("The random password is : " + "".join(password))
 ## Contributing
 
 This project is done by Rajesh Wanekar
-You can connect with me [[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rajesh-wanekar-747b6b256)](https://www.linkedin.com/in/rajesh-wanekar-342288320/)
+You can connect with me www.linkedin.com/in/rajesh-wanekar-342288320
